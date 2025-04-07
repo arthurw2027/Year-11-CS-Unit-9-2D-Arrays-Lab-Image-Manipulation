@@ -354,4 +354,3 @@ public class APImage extends JFrame implements Iterable<Pixel>{
     }
        
 }
-      
